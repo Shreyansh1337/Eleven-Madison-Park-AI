@@ -1,9 +1,4 @@
 # 🍽️ Eleven Madison Park — AI-Powered RAG Q&A Assistant
-
-\<p align="center">   \<strong>An AI-powered Question Answering Assistant built using Retrieval-Augmented Generation (RAG), LangChain, Google Gemini, and ChromaDB.\</strong> \</p>
-
-\<p align="center">   \<img src="[https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white](https://img.shields.io/badge/Python-3.12-blue?logo=python\&logoColor=white)" alt="Python">   \<img src="[https://img.shields.io/badge/LangChain-Framework-green](https://img.shields.io/badge/LangChain-Framework-green)" alt="LangChain">   \<img src="[https://img.shields.io/badge/Google%20Gemini-LLM-4285F4?logo=google](https://img.shields.io/badge/Google%20Gemini-LLM-4285F4?logo=google)" alt="Google Gemini">   \<img src="[https://img.shields.io/badge/ChromaDB-Vector%20Database-purple](https://img.shields.io/badge/ChromaDB-Vector%20Database-purple)" alt="ChromaDB">   \<img src="[https://img.shields.io/badge/Gradio-Interface-orange?logo=gradio](https://img.shields.io/badge/Gradio-Interface-orange?logo=gradio)" alt="Gradio"> \</p>
-
 ---
 
 ## 📌 Overview
@@ -234,4 +229,3 @@ GitHub: [@Shreyansh1337](https://github.com/Shreyansh1337)
 
 ---
 
-\<p align="center">   \<strong>Built with Python, LangChain, Google Gemini, and ChromaDB \</strong> \</p>
